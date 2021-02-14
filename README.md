@@ -1,0 +1,2 @@
+# QtMultiThread
+Win10QtCreator
